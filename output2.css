@@ -1,0 +1,26 @@
+#container {
+  padding: 1px;
+  padding-right: 100px;
+  width: auto;
+  float: left;
+  background-color: #add9e7;
+}
+.white {
+  width: 100px;
+  height: 110px;
+  margin: 8px;
+  border: 1px #ffffff solid;
+  float: left;
+}
+.pink {
+  width: 85px;
+  height: 70px;
+  margin: 8px;
+  background-color: #ffbfcd;
+}
+.caption {
+  font-size: 9px;
+  font-family: arial, sans-serif;
+  color: #ffffff;
+  text-align: center;
+}

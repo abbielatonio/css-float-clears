@@ -1,0 +1,31 @@
+.container {
+  padding: 1px;
+  margin: 10px;
+  width: 1000px;
+  background-color: #add9e7;
+}
+.title {
+  font-size: 20px;
+  font-family: arial;
+  font-weight: bold;
+  color: #ffffff;
+  margin: 15px;
+}
+.pink {
+  float: left;
+  width: 85px;
+  height: 85px;
+  margin: 8px;
+  background-color: #ffbfcd;
+}
+.comment,
+.comment2{
+  margin: 10px;
+  font-size: 12px;
+  font-family: arial;
+  color: #ffffff;
+  font-style: italic;
+}
+.comment {
+    overflow: hidden;
+}

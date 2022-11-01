@@ -1,0 +1,12 @@
+#container {
+  width: auto;
+  float:left;
+  background-color: #add9e7;
+}
+.pink {
+  width: 100px;
+  height: 100px;
+  margin: 8px;
+  background-color: #ffbfcd;
+  float: left;
+}
